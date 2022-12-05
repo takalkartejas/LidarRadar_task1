@@ -19,13 +19,23 @@ The objectives of this project are as follows:-
 * Python Packages: NumPy, Matplotlib, plotly, opencv-python
 
 ## Problems and solutions
+
+**Problem:** 3D plot does not load and you see that webGL is not supported by your browser
+
+**Soultion:** 
+1. Check the default browser of your OS
+2. [Firefox](https://help.interplaylearning.com/en/help/how-to-enable-webgl-in-firefox)
+3. [Chrome](https://help.interplaylearning.com/en/help/how-to-enable-webgl-in-chrome)
+
 **Problem:** You might see an error similar to 'Mime type rendering requires nbformat>=4.2.0 but it is not installed', the key word here is 'nbformat'. 
 
 **Solution:** 
 1. Install or update nbformat
-   * python 3.0 :- $ pip3 install nbformat
-   * python 2.0 :- $ pip install nbformat
+   * python 3 :- $ pip3 install nbformat
+   * python 2 :- $ pip install nbformat
 2. Restart the notebook after installation
+
+
 
 ## Results
 * The output of the first three objectives is as follows
