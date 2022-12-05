@@ -22,10 +22,10 @@ The objectives of this project are as follows:-
 
 **Problem:** 3D plot does not load and you see that webGL is not supported by your browser
 
-**Soultion:** 
+**Solution:** 
 1. Check the default browser of your OS
-2. [Firefox](https://help.interplaylearning.com/en/help/how-to-enable-webgl-in-firefox)
-3. [Chrome](https://help.interplaylearning.com/en/help/how-to-enable-webgl-in-chrome)
+2. [WebGL in Firefox](https://help.interplaylearning.com/en/help/how-to-enable-webgl-in-firefox)
+3. [WebGL in Chrome](https://help.interplaylearning.com/en/help/how-to-enable-webgl-in-chrome)
 
 **Problem:** You might see an error similar to 'Mime type rendering requires nbformat>=4.2.0 but it is not installed', the key word here is 'nbformat'. 
 
