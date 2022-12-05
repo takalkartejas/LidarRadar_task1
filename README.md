@@ -2,15 +2,15 @@
 
 ## General Description
 
-This repository contains a file called project.ipynb in which the entire code, explaination and outputs of the project are present in detail.
+This repository contains a file called project.ipynb in which the entire code, explanation and outputs of the project are present in detail.
  
- There is also a folder called Dataset2022 which contains the dataset of recordings of a moving car. The recordings are taken by 2 types of lidar sensors, 1 radar sensors and a camera. The folder also contains ground truth data which refers to the bounding box the containing car. The content of this folder is described in detail inside project.ipynb.
+ There is also a folder called Dataset2022 which contains the dataset of recordings of a moving car. The recordings are taken by 2 types of lidar sensors, 1 radar sensor and a camera. The folder also contains ground truth data which refers to the bounding box the containing car. The content of this folder is described in detail inside project.ipynb.
 
 The objectives of this project are as follows:-
 
 1.  Plot a 3D scatter plot of the recordings from each lidar and radar sensor.
 2.  Plot a 3D bounding box inside the plot using the given ground truth data.
-2.   Seperate the points inside the bounding box from outside.
+2.   Separate the points inside the bounding box from outside.
 4.   Calculate the number of points inside the bounding box.
 5.   Create a plot of the no. of points inside bounding box vs the distance of the car from the sensor. This plot should be created for both lidar sensors.
 
